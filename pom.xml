@@ -20,8 +20,10 @@
     <!--Maven的项目聚合-->
     <modules>
         <module>seata-common</module>
-        <module>seata-distributed-account-service</module>
+        <module>seata-distributed-product-service</module>
         <module>seata-distributed-transaction</module>
+        <module>seata-distributed-order-service</module>
+        <module>seata-distributed-account</module>
     </modules>
 
 </project>

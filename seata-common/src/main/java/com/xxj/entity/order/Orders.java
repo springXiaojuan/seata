@@ -1,5 +1,6 @@
 package com.xxj.entity.order;
 
+
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableId;
 import lombok.Getter;
@@ -9,7 +10,6 @@ import lombok.experimental.Accessors;
 import java.io.Serializable;
 import java.math.BigDecimal;
 import java.sql.Timestamp;
-import java.util.Date;
 
 /**
  * @author xuxiaojuan

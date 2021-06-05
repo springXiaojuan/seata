@@ -1,5 +1,7 @@
 package com.xxj.entity.product;
 
+
+
 import lombok.Getter;
 import lombok.Setter;
 import lombok.experimental.Accessors;
