@@ -24,6 +24,7 @@
         <module>seata-distributed-transaction</module>
         <module>seata-distributed-order-service</module>
         <module>seata-distributed-account</module>
+        <module>seata-distributed-tcc-transaction</module>
     </modules>
 
 </project>
